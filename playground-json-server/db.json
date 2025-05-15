@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Alice"
+    },
+    {
+      "id": "2",
+      "name": "Bob"
+    },
+    {
+      "id": "3",
+      "name": "gf1"
+    }
+  ],
+  "posts": [
+    {
+      "id": "1",
+      "title": "sun",
+      "author": "Alice"
+    },
+    {
+      "id": "2",
+      "title": "mars",
+      "author": "gungfuu"
+    },
+    {
+      "id": "3",
+      "title": "moon",
+      "author": "malisa"
+    }
+  ]
+}
